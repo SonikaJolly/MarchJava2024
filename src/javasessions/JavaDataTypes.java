@@ -24,6 +24,7 @@ public class JavaDataTypes {
 	
 		System.out.println(m);
 		
+		
 		long t= 10000000000l;
 		long r= 500000090909090l;
 		
